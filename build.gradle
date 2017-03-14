@@ -5,10 +5,10 @@ android {
     buildToolsVersion "25.0.2"
 
     defaultConfig {
-        minSdkVersion 15
+        minSdkVersion 19
         targetSdkVersion 25
-        versionCode 602
-        versionName "0.6.2"
+        versionCode 1700
+        versionName "0.17.0"
     }
 
     sourceSets {
